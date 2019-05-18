@@ -8,5 +8,20 @@
     * some str methods: is decimal, title
     * Unicode characters
     * police
+    * split, join, replace, strip
+    * find, rfind, in, index
+    * upper, lower, swapcase
+    * capitalize, title
+* file 02.02 : strings formatting
+    * print
+    * f-string
+    * format
+* file 03
+    * number of elements
+    * Operators : min, max
+    * operator: belong to (in, not in)
+    * index, count (number of occurences )
+    * concatenation
+    * slices
 
 
