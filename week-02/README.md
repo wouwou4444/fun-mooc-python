@@ -15,7 +15,8 @@
 * file 02.02 : strings formatting
     * print
     * f-string
-    * format
+    * format and % operator
+    * decimal precision
 * file 03
     * number of elements
     * Operators : min, max
@@ -23,5 +24,12 @@
     * index, count (number of occurences )
     * concatenation
     * slices
+* file 04 : list methods and operations
+    * list slices
+    * append, extend
+    * insert, remove
+    * pop
+    * ipythontutor module : mutable vs immutable objects
+    * sort
 
 
