@@ -41,6 +41,8 @@
     * loop on dictionnary or array with keys and index
 * file 07
     * list in comprehension
+* file 08
+    * module introduction
     
 
 
