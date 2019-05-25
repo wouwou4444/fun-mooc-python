@@ -30,6 +30,17 @@
     * insert, remove
     * pop
     * ipythontutor module : mutable vs immutable objects
-    * sort
+    * sort, split, join
+* file 05
+    * pass instruction
+    * coding rules
+    * if else instructions
+* file 06
+    * set and list functions
+    * zip object adn function
+    * loop on dictionnary or array with keys and index
+* file 07
+    * list in comprehension
+    
 
 
