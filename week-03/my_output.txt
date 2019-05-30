@@ -1,0 +1,2 @@
+now we are printing in the file <_io.TextIOWrapper name='my_output.txt' mode='w' encoding='utf-8'>
+second line to the new output file
