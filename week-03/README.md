@@ -14,3 +14,8 @@ function on files, open, read, close, realines, readline,
     * json format
     * other formats: ConfigParser(ini), XML, pickle, ...
     * stdout redirection
+* file 02
+    * tuple type
+    * sequence unpacking
+    * extended unpacking
+    * enumerate with unpacking in For loop
