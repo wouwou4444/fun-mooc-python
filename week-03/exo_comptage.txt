@@ -1,0 +1,21 @@
+1:7:26:# week 3 of Mooc Python 3
+2:0:1:
+3:8:58:function on files, open, read, close, realines, readline,
+4:0:2: 
+5:10:63:     "en français dans le fichier, à vérifier en mode binaire"
+6:0:1:
+7:3:10:* file 01
+8:2:12:    * files
+9:5:38:    * open, read, readlines, readline
+10:9:34:    * open file mode : r, w, a, b
+11:9:47:    * context generator : with open ... as ...
+12:3:22:    * pathlib library
+13:3:25:    * Data Serialization
+14:3:18:    * json format
+15:7:57:    * other formats: ConfigParser(ini), XML, pickle, ...
+16:3:25:    * stdout redirection
+17:3:10:* file 02
+18:3:17:    * tuple type
+19:3:25:    * sequence unpacking
+20:3:25:    * extended unpacking
+21:7:42:    * enumerate with unpacking in For loop

@@ -19,3 +19,12 @@ function on files, open, read, close, realines, readline,
     * sequence unpacking
     * extended unpacking
     * enumerate with unpacking in For loop
+* file 04
+    * hash tables and dictionary
+    * creation, del, get, KeyError
+    * views : items, keys, values to iterate on dictionaries
+    * defaultdict collection
+* file 08
+    * class and self parameter
+    * special methods : __init__, __repr__, __str__
+    * general methods
