@@ -26,5 +26,5 @@ function on files, open, read, close, realines, readline,
     * defaultdict collection
 * file 08
     * class and self parameter
-    * special methods : __init__, __repr__, __str__
+    * special methods : \_\_init\_\_, \_\_repr\_\_, \_\_str\_\_
     * general methods
