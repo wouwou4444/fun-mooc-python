@@ -24,6 +24,9 @@ function on files, open, read, close, realines, readline,
     * creation, del, get, KeyError
     * views : items, keys, values to iterate on dictionaries
     * defaultdict collection
+* file 05
+    * sets and frozensets
+    * methods
 * file 08
     * class and self parameter
     * special methods : \_\_init\_\_, \_\_repr\_\_, \_\_str\_\_
