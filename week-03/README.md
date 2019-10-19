@@ -27,6 +27,12 @@ function on files, open, read, close, realines, readline,
 * file 05
     * sets and frozensets
     * methods
+* file 06
+    * Exception : try, except Error as e:
+    * Exception : try , finally
+    * Class Exception
+* file 07
+    * shared references : shallow copy [:] and deep copy (import copy)
 * file 08
     * class and self parameter
     * special methods : \_\_init\_\_, \_\_repr\_\_, \_\_str\_\_

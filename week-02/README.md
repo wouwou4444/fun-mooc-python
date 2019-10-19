@@ -43,6 +43,8 @@
     * list in comprehension
 * file 08
     * module introduction
+* file list_comprehension_advanced
+    * matrix : double list comprehension
     
 
 
